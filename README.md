@@ -1,0 +1,1 @@
+Este proyecto es un programa en Python que calcula el índice de masa corporal (IMC) de un usuario y proporciona recomendaciones personalizadas según el IMC y otros factores como la edad, el género y el nivel de actividad física. aun esta en desarrollo lento
